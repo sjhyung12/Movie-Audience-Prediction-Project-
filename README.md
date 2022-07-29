@@ -1,1 +1,1 @@
-# Movie-Audience-Prediction-Project-
+# 영화 관객수 예측 프로젝트
